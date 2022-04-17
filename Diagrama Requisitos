@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-17T13:16:57.942Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="YM37K-WYFzF-o8fg2Rap" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-17T13:17:56.872Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="hQLum0XQM0GH0IvprJZv" version="17.4.5" type="github">
   <diagram id="gKyigR3JTnvVvtyG8lcG" name="Page-1">
     <mxGraphModel dx="1133" dy="1107" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,31 +8,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K92y1vra02gcz8tEjG-y-1" value="Enfermeiro(a)/&lt;br&gt;Médico(a)&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="30" y="40" width="30" height="60" as="geometry" />
+          <mxGeometry x="84" y="40" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="K92y1vra02gcz8tEjG-y-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K92y1vra02gcz8tEjG-y-2" target="K92y1vra02gcz8tEjG-y-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K92y1vra02gcz8tEjG-y-2" value="Cadastrar paciente" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="60" width="120" height="60" as="geometry" />
+          <mxGeometry x="230" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="K92y1vra02gcz8tEjG-y-3" value="Gerar planilha com todos os horários da medicação" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="624" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="K92y1vra02gcz8tEjG-y-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="K92y1vra02gcz8tEjG-y-4" target="K92y1vra02gcz8tEjG-y-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K92y1vra02gcz8tEjG-y-4" value="Exibir medicamentos e melhores horários da medicação" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="60" width="120" height="60" as="geometry" />
+          <mxGeometry x="624" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="K92y1vra02gcz8tEjG-y-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K92y1vra02gcz8tEjG-y-5" target="K92y1vra02gcz8tEjG-y-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K92y1vra02gcz8tEjG-y-5" value="Cadastrar informações sobre a medicação" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="60" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="K92y1vra02gcz8tEjG-y-6" value="Paciente&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="750" y="50" width="30" height="60" as="geometry" />
+          <mxGeometry x="430" y="40" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
